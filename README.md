@@ -1,5 +1,7 @@
 # Hi, I'm Ans Christy 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Tech)
+
 ## 🚀 About Me
 
 I enjoy the process of writing code and fixing bugs, irrespective of the domain I'm in. I'm experienced in web development, mainly giving meaningful contributions to the Tathva 2025 website, along with my own projects on GitHub.
@@ -19,10 +21,17 @@ I enjoy the process of writing code and fixing bugs, irrespective of the domain 
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ans-C17&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-C17&layout=compact&theme=tokyonight)
+
 ## 🔥 Featured Projects
 
 - 📖 **[Memory Bible](https://github.com/Ans-C17/memory-bible)** - Bible memorization and study tool
-- 🚨 **[Server Uptime Monitor](https://github.com/Ans-C17/Server-Uptime-Monitor)** - Real-time website monitoring with email alerts
+- 🚨 **[Server Uptime Monitor](https://github.com/Ans-C17/server-uptime-monitor)** - Real-time website monitoring with email alerts
+- 🌐 **[Tathva 2025](https://github.com/Tathva-NITC)** - Contributed to NITC's annual technical festival website
 
 ## 📫 Connect With Me
 
