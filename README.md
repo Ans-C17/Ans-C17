@@ -21,8 +21,6 @@ Enjoying the art of programming
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ans-C17&theme=tokyonight)
-
 ## 🔥 Featured Projects
 
 - 📖 **[Memory Bible](https://github.com/Ans-C17/memory-bible)** - Bible memorization and study tool
