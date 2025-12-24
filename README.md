@@ -1,10 +1,10 @@
-# Hi, I'm Ans Christy 👋
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Tech)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ans+Christy+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
-I enjoy the process of writing code and fixing bugs, irrespective of the domain I'm in. I'm experienced in web development, mainly giving meaningful contributions to the Tathva 2025 website, along with my own projects on GitHub.
+Enjoying the art of programming
 
 ## 💻 Tech Stack
 
